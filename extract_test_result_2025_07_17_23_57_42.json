@@ -1,0 +1,8 @@
+{
+    "timestamp": "2025-07-17T23:57:42.285129",
+    "endpoint": "/v1/extract",
+    "success": false,
+    "news_items_found": 0,
+    "news_items": [],
+    "full_response": null
+}
